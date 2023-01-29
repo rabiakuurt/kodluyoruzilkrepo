@@ -1,9 +1,10 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-#**Kodluyoruz İlk Repo**
+
+# Kodluyoruz İlk Repo
 
 
-#**Installation**
+## Installation
 
 Öncelikle projeyi klonlayın.
 
@@ -12,9 +13,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
   https://github.com/rabiakuurt/kodluyoruzilkrepo.git
 ```
 
- #**Usage**
-
-
+ ## Usage 
  Projeyi cloneladıktan sonra Visul Studio Code programında açınız. 
  Linux için: 
 
@@ -23,12 +22,9 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
  code .
 ```
 
- #**Contributing**
+ ## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
+ ## License
+ [MIT]
  
- Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-
- #**License**
-
-
-
